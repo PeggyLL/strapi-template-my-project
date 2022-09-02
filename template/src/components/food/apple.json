@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_food_apples",
+  "info": {
+    "displayName": "apple",
+    "icon": "apple-alt"
+  },
+  "options": {},
+  "attributes": {
+    "rwethwehwtherh": {
+      "type": "richtext"
+    }
+  }
+}
